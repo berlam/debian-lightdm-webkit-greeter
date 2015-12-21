@@ -1,0 +1,8 @@
+Package: lightdm-webkit2-greeter
+Version: 0.2.3
+Section: base
+Priority: optional
+Architecture: amd64
+Depends: liblightdm-gobject-1-0 (>= 1.16.6-1), libgtk-3-0 (>= 3.18.5-1), libwebkit2gtk-4.0-37 (>= 2.10.4+dfsg1-1), libdbus-glib-1-2 (>= 0.102-1)
+Maintainer: Matthias Berla <berlam@users.noreply.github.com>
+Description: LightDM Webkit2 Greeter for Debian
