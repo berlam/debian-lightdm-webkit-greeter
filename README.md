@@ -25,6 +25,6 @@ Tested on _Debian Stretch_.
 
 ## Credits
 
-Many thanks to the Antergos Project. Maybe this will sometime go the official repo.
+Many thanks to the Antergos Project. Maybe this will sometime go to the official repo.
 
 https://github.com/Antergos/lightdm-webkit2-greeter
