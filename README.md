@@ -27,6 +27,6 @@ Tested on _Debian Stretch_.
 
 ## Credits
 
-Many thanks to the Launchapd Project. Maybe this will sometime go the official repo.
+Many thanks to the Launchpad Project. Maybe this will sometime go the official repo.
 
 https://launchpad.net/lightdm-webkit-greeter
