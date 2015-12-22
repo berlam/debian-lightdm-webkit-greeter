@@ -5,7 +5,7 @@ I encapsulated the installation in a Docker container to be more platform indepe
 
 Installation requires following steps:
 
-1. `git clone https://github.com/berlam/lightdm-webkit2-greeter.git greeter`
+1. `git clone https://github.com/berlam/lightdm-webkit-greeter-debian.git greeter`
 
 2. `cd greeter && mkdir build`
 
