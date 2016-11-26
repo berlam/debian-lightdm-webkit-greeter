@@ -25,8 +25,12 @@ Themes are placed in _"/usr/share/lightdm-webkit/themes"_ and can be fully custo
 
 Tested on _Debian Stretch_.
 
+## Contributions
+
+Are welcome! Especially people with experience in releasing software in the official debian repo for a few hints.
+
 ## Credits
 
-Many thanks to the Launchapd Project. Maybe this will sometime go the official repo.
+Many thanks to the Launchpad Project.
 
 https://launchpad.net/lightdm-webkit-greeter
