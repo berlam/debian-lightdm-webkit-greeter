@@ -9,7 +9,7 @@ Installation requires following steps:
 
 2. `cd greeter && mkdir build`
 
-3. `docker build -t "lightdm-webkit-greeter"`
+3. `docker build -t "lightdm-webkit-greeter" .`
 
 4. `docker run --rm -v $PWD/build:/root/build --name "lightdm-webkit-greeter" lightdm-webkit-greeter`
 
